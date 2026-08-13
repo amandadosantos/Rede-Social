@@ -1,2 +1,10 @@
 //Botão curtidas
-document.addEventListener
+document.addEventListener("DOMContentLoaded", () =>{
+    const likeBtn = document.querySelector(".left-actions .action-btn:first-child");
+    if (!likeBtn) return; 
+     const likeSvg = likeBnt.querySelector("svg"); 
+
+    //localiza o contador
+
+    let textNode =  Array
+})
